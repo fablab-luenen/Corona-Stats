@@ -1,5 +1,5 @@
 # Esp8266 Covid Ticker mit i2c SSD1306
-# Bleibt zu hause
+# Bleibt zuhause
 
 SCL D1
 SDA D2
